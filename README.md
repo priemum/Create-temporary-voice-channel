@@ -1,7 +1,7 @@
 # Create temporary voice channel
 
+<img src='https://2.top4top.net/p_1330ddv261.gif'>
 <h1>التثبيت</h1>
-https://2.top4top.net/p_1330ddv261.gif
 <hr>
 
 <h1>

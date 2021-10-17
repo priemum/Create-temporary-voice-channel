@@ -2,14 +2,14 @@ var discord= require('discord.js');
 var client = new discord.Client();
 //
 var Token = '';
-var categoryID = '';
+var categoryID = '';      
 var voiceID = '';
 
 client.on('ready',()=>console.log(`${client.user.tag} is ready`));
 client.on('voiceStateUpdate',(Old,New)=>
 {
     if(New.user.bot) return;
-    if(Old.user.bot) return;
+    if(Old.user.bot) return;              
 
     if(New.voiceChannelID == voiceID)
     {
